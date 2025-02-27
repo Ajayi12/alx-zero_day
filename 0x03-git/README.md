@@ -1,1 +1,1 @@
-Created a directory inside a repository
+I Created my first directory inside a repository
